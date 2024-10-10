@@ -1,6 +1,6 @@
 # [POWER BI] The development of Superstore Sales and Strategies
 
-## I. Introduction
+## I. Introduction 
 ### 1. Introduction to Dataset
 * Dataset: **Global Superstore Sales**
 - Dataset stores sales information of some products of a company worldwide
